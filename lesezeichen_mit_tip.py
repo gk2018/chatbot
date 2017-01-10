@@ -10,5 +10,7 @@ def function():
 	print("das sehe ich auch so.")
 	print("Auf Wiedersehen")
 
-# rufe die Funktion 1x auf.
+# rufe die Funktion 3x auf.
+function()
+function()
 function()
